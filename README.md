@@ -1,4 +1,3 @@
-## Hi, I'm Nick Lin. 👋 Sharing my coding life bit by bit. 👨‍💻
 ![LeetCode Stats](https://leetcode.card.workers.dev/ZongYanLin?theme=dark&font=baloo&extension=activity)
 
 <!--
