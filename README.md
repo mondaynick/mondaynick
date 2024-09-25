@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/ZongYanLin?theme=dark&font=baloo&extension=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ZongYanLin?theme=dark&font=Noto%20Sans%20N%20Ko&ext=contest)
 
 <!--
 **mondaynick/mondaynick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
