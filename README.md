@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Nick Lin. 👋
+![LeetCode Stats](https://leetcode.card.workers.dev/ZongYanLin?theme=dark&font=baloo&extension=activity)
 
 <!--
 **mondaynick/mondaynick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
